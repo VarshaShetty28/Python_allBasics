@@ -8,4 +8,11 @@ fruits = ["Apple", "Banana", "Strawberry"]
 numbers = [1, 2, 3, 4, 5]
 mixed = ["Apple", 1, True]
 ```
-
+###**List Operations**:
+**1.Accessing List Elements:
+can access individual elements in list using the indexs
+Example:
+```python
+print(fruits[0]) #Here it gives the Apple as a output
+```
+                      
