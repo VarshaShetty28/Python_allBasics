@@ -3,7 +3,7 @@ A list is a collection of items that are **ordered**, **mutable** (changeable), 
 lists are denoted with [ ](square brackets}
 
 #### **Example**:
-```python
+```
 fruits = ["apple", "banana", "cherry"]
 numbers = [1, 2, 3, 4, 5]
 mixed = ["apple", 3, True]
