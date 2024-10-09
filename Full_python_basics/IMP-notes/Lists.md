@@ -105,5 +105,5 @@ sum_elements=sum(numbers) #returns sum of the list elements
 ```
 #### **Nested Lists**
 Lists can contain other lists, allowing you to create nested lists. This can be useful for storing matrix-like data structures.
-- of we acces that with index it gives the row value eg matrix[0] which returns the 0th row
--matrix[0][1] returns the element in the 0th row and 1st column.
+- if we access that with index it gives the row value eg: matrix[0] which returns the 0th row
+- matrix[0][1] returns the element in the 0th row and 1st column.
