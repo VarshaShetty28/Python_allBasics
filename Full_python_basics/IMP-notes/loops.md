@@ -140,6 +140,7 @@ This loop goes through the string `"Karnataka"` one character at a time.
 ### **7. Looping Through a List with `enumerate()`**
 
 The `enumerate()` function allows you to loop over a sequence and get both the index and the value of each item.
+basically enumerator means which will provide the each character and its index in string and items if it list and so on 
 
 #### **Example**: Displaying the index and value of each city
 ```python
