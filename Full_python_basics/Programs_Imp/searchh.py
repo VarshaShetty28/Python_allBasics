@@ -1,6 +1,7 @@
 # function to search in a sorted integer array 
 # if it is sorted we can make it optimized and fast 
 # problem is : search a integer in sorted array :
+# this is the binary search algorith which works only for the sorted array 
 def search(num,key):
     left = 0
     right = len(num)-1
@@ -21,5 +22,5 @@ def search(num,key):
         print('Number is not found')
 
 num = [1, 2, 3, 5, 7, 8, 9, 10, 15, 45]
-key = 1
+key = 11
 search(num,key)
