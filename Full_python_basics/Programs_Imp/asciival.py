@@ -1,3 +1,5 @@
+#fibd the length of the string 
+#in string we need to handle all te cases like non and all
 #to find the ascii value in python we need to use the ord function to that char can be used to find teh value of digit also
 def getStringlength(str):
     print(len(str))
